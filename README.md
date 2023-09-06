@@ -1,2 +1,2 @@
-# pac
+# Machine Learning
 Machine Learning
